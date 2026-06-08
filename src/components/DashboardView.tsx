@@ -128,7 +128,7 @@ export default function DashboardView({
                 <div className="w-16 h-16 border-2 border-on-surface bg-on-surface flex items-center justify-center text-background relative">
                   <Gauge className="w-6 h-6" />
                 </div>
-                <span className="text-[11px] caps mt-2 font-bold">EcoSync Hub</span>
+                <span className="text-[11px] caps mt-2 font-bold">Nitro Hub</span>
                 <span className="text-[9px] uppercase tracking-widest font-semibold text-neutral-400">Active</span>
               </div>
 

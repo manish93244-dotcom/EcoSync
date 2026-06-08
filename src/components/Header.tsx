@@ -18,7 +18,7 @@ export default function Header({ onNotifyClick, activeNotificationsCount }: Head
           />
         </div>
         <div>
-          <h1 className="font-headline text-xl font-bold tracking-tight text-on-surface leading-none">EcoSync</h1>
+          <h1 className="font-headline text-xl font-bold tracking-tight text-on-surface leading-none">Nitro</h1>
           <span className="text-[10px] text-primary font-bold uppercase tracking-wider font-label">Active Smart Grid</span>
         </div>
       </div>

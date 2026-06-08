@@ -1,4 +1,4 @@
-# EcoSync Grid Diagnostics Hub
+# Nitro Grid Diagnostics Hub
 
 A high-fidelity grid diagnostics dashboard and telemetry ledger designed to monitor smart meters, solar panel generation, load draws, and historical energy analytics.
 
@@ -47,7 +47,7 @@ Here is the step-by-step continuous deployment setup:
    ```bash
    git init
    git add .
-   git commit -m "Initialize project: EcoSync Hub"
+   git commit -m "Initialize project: Nitro Hub"
    git branch -M main
    git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
    git push -u origin main

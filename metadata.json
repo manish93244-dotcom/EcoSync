@@ -1,6 +1,6 @@
 {
-  "name": "EcoSync",
-  "description": "An eco-friendly energy saving and smart home automation manager.",
+  "name": "Nitro",
+  "description": "A high-fidelity grid diagnostics dashboard and telemetry ledger designed to monitor smart meters, solar panel generation, load draws, and historical energy analytics.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -159,7 +159,7 @@ export default function SettingsView({ settings, onUpdateSettings }: SettingsVie
             <div className="pt-6 border-t border-on-surface/10 flex flex-col md:flex-row md:items-center justify-between gap-6">
               {successMsg ? (
                 <span className="text-xs text-on-surface font-semibold flex items-center gap-1.5 animate-pulse font-serif italic">
-                  <CheckCircle2 size={13} className="text-on-surface" /> Telemetry preferences saved. EcoSync Hub updated successfully!
+                  <CheckCircle2 size={13} className="text-on-surface" /> Telemetry preferences saved. Nitro Hub updated successfully!
                 </span>
               ) : (
                 <span className="text-xs text-on-surface-variant/70 font-serif italic">
@@ -183,7 +183,7 @@ export default function SettingsView({ settings, onUpdateSettings }: SettingsVie
             <Shield className="text-on-surface-variant w-6 h-6 mb-4" />
             <h3 className="font-headline text-2xl font-light italic mb-2">Cryptographic Safeguard</h3>
             <p className="text-xs font-serif leading-relaxed font-light text-on-surface-variant">
-              We care about your privacy. EcoSync telemetry logs are processed completely locally in compliance with General Data Protection Regulation and Western European Power Grid Guidelines.
+              We care about your privacy. Nitro telemetry logs are processed completely locally in compliance with General Data Protection Regulation and Western European Power Grid Guidelines.
               Encryption uses robust locally validated keys, keeping metadata invisible to third parties.
             </p>
           </div>
